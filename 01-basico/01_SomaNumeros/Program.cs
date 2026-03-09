@@ -12,7 +12,7 @@ namespace _01_SomaNumeros
         {
             //TODO Crie duas variáveis inteiras e mostre a soma.
 
-            int num1 = 2;
+            int num1 = 5;
             int num2 = 3;
             int sum = num1 + num2;
             Console.WriteLine(sum);
