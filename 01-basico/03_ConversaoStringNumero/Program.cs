@@ -5,12 +5,6 @@ Console.WriteLine($"O número é string? {str is string}");
 int num = Convert.ToInt32(str);
 Console.WriteLine("Então converteremos..");
 Console.WriteLine($"O número é string? {num is string}");
-
-
-
-
-
-
 Console.ReadLine();
 
 
