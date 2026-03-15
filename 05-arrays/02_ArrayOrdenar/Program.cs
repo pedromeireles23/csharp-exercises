@@ -21,7 +21,7 @@ foreach (int number2 in arr)
     Console.WriteLine(number2);
 
 }
-
+// TODO 📝 Encontre o índice de um número.
 Console.WriteLine(Array.IndexOf(arr, 20 ));
 
 Console.ReadLine();
